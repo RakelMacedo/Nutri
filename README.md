@@ -19,7 +19,7 @@ Projeto destinado a nutricionistas para fazerem o gerenciamento de pacientes.
   </tr>
   <tr>
     <td>3.*</td>
-    <td>4.0.4</td>
+    <td>4.0.6</td>
     <td>3</td>
     <td>5</td>
     <td>3</td>
