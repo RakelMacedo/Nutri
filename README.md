@@ -83,4 +83,4 @@ $ python3 manage.py migrate
 $ python3 manage.py runserver
 ```
 
-### ✅ Prontinho! Com o servidor rodando, basta você visitar as urls do projeto com o seu navegador! =)
+### ✅ Prontinho! Com o servidor rodando, basta você visitar os endpoints do projeto com o seu navegador! =)
