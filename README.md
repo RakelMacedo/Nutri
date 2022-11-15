@@ -54,8 +54,8 @@ Projeto destinado a nutricionistas para fazerem o gerenciamento de pacientes.
 
 - Clone o repositório:
 ```
-$ git clone https://github.com/RakelMacedo/nutri.git
-$ cd nutri/
+$ git clone https://github.com/RakelMacedo/Nutri.git
+$ cd Nutri/
 ```
 
 - Crie seu ambiente virtual:
